@@ -2,7 +2,7 @@ name: Build Prompt Data
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
     paths:
       - 'prompts/**'
   schedule:
@@ -25,7 +25,7 @@ jobs:
       - name: Build prompts index
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: npx tsx scripts/build-prompts.ts
+        run: npx --yes tsx scripts/build-prompts.ts
 
       - name: Commit updated data
         run: |

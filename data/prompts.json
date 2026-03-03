@@ -1,5 +1,24 @@
 [
   {
+    "id": "johndoe-ecommerce-store",
+    "title": "Minimalist E-commerce Store",
+    "description": "A clean, modern e-commerce storefront with a focus on high-quality product imagery, smooth filtering, and an intuitive checkout process.",
+    "promptText": "Design a minimalist e-commerce storefront for a high-end fashion brand. The homepage should feature a full-screen hero image with a simple sans-serif typography overlay. Below the hero section, include a clean product grid with hover effects showing alternative angles of the products. Add a functional sidebar filter for categories, sizes, and colors. The color palette should be essentially monochromatic (black, white, shades of gray) to let the product photography stand out. Ensure the cart and checkout process feels seamless and premium.",
+    "resultType": "image",
+    "resultImage": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+    "category": "E-commerce",
+    "tags": [
+      "ecommerce",
+      "minimalist",
+      "store",
+      "shopping"
+    ],
+    "authorGithub": "johndoe",
+    "authorName": "John Doe",
+    "authorAvatar": "https://avatars.githubusercontent.com/johndoe",
+    "createdAt": "2026-03-03T10:00:00Z"
+  },
+  {
     "id": "alexchen-futuristic-saas-dashboard",
     "title": "Futuristic SaaS Dashboard",
     "description": "A sleek, dark-themed analytics dashboard with glassmorphic cards, real-time chart widgets, and a purple-to-cyan accent gradient.",
