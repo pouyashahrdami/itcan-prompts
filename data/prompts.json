@@ -1,0 +1,78 @@
+[
+  {
+    "id": "alexchen-futuristic-saas-dashboard",
+    "title": "Futuristic SaaS Dashboard",
+    "description": "A sleek, dark-themed analytics dashboard with glassmorphic cards, real-time chart widgets, and a purple-to-cyan accent gradient.",
+    "promptText": "Design a futuristic SaaS analytics dashboard with a dark navy background (#0a0f1e). Include glassmorphic cards with frosted glass effect showing KPI metrics (revenue, users, growth rate). Add an area chart with purple-to-cyan gradient fill, a sidebar navigation with glowing active states, and a top bar with search and avatar. Use Inter font, rounded corners, and subtle glow effects on hover. Make it look premium and modern.",
+    "resultType": "image",
+    "resultImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+    "category": "Dashboard",
+    "tags": [
+      "dark-theme",
+      "glassmorphism",
+      "analytics",
+      "saas"
+    ],
+    "authorGithub": "alexchen",
+    "authorName": "Alex Chen",
+    "authorAvatar": "https://avatars.githubusercontent.com/alexchen",
+    "createdAt": "2026-02-28T10:00:00Z"
+  },
+  {
+    "id": "sarahkim-ai-startup-landing",
+    "title": "AI Startup Landing Page",
+    "description": "A bold, conversion-focused landing page for an AI startup with animated hero section, feature grid, and social proof section.",
+    "promptText": "Create a landing page for an AI-powered writing assistant startup. Hero section with large bold headline \"Write 10x Faster with AI\", a glowing CTA button, and an animated illustration of AI generating text. Below, add a 3-column feature grid with icons (speed, accuracy, creativity). Include a testimonial carousel with avatar, name, and quote. Use a dark background with vibrant purple accents, smooth scroll animations, and modern typography.",
+    "resultType": "image",
+    "resultImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    "category": "Landing Page",
+    "tags": [
+      "ai",
+      "startup",
+      "hero",
+      "conversion"
+    ],
+    "authorGithub": "sarahkim",
+    "authorName": "Sarah Kim",
+    "authorAvatar": "https://avatars.githubusercontent.com/sarahkim",
+    "createdAt": "2026-02-27T14:30:00Z"
+  },
+  {
+    "id": "marcusj-mobile-banking-app",
+    "title": "Mobile Banking App UI",
+    "description": "Clean, modern mobile banking app with card management, transaction history, and budget tracking features.",
+    "promptText": "Design a mobile banking app UI with a dark theme. Home screen showing: virtual card at the top with a holographic gradient effect, quick action buttons (Send, Receive, Pay, Top-up), recent transactions list with merchant icons, and a spending breakdown donut chart. Use rounded UI elements, the color palette of deep black (#0d0d0d) with electric blue (#00d4ff) accents.",
+    "resultType": "image",
+    "resultImage": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&q=80",
+    "category": "Mobile App",
+    "tags": [
+      "fintech",
+      "banking",
+      "mobile",
+      "dark-theme"
+    ],
+    "authorGithub": "marcusj",
+    "authorName": "Marcus Johnson",
+    "authorAvatar": "https://avatars.githubusercontent.com/marcusj",
+    "createdAt": "2026-02-26T09:15:00Z"
+  },
+  {
+    "id": "alexchen-minimal-portfolio",
+    "title": "Minimal Portfolio Website",
+    "description": "An ultra-clean, minimalist portfolio for designers with smooth page transitions and a focus on showcasing work.",
+    "promptText": "Design a minimalist portfolio website for a UI/UX designer. Use a clean white/off-white background with black typography. Hero section with just a name, title, and a single line bio. Below, show a 2-column masonry grid of project thumbnails that expand on hover with a subtle zoom and overlay showing project name. Navigation should be minimal — just Work, About, Contact. Use lots of whitespace and smooth transitions.",
+    "resultType": "url",
+    "resultUrl": "https://brittanychiang.com",
+    "category": "Web App",
+    "tags": [
+      "portfolio",
+      "minimal",
+      "clean",
+      "designer"
+    ],
+    "authorGithub": "alexchen",
+    "authorName": "Alex Chen",
+    "authorAvatar": "https://avatars.githubusercontent.com/alexchen",
+    "createdAt": "2026-02-25T16:45:00Z"
+  }
+]
