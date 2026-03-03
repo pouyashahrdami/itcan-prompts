@@ -1,0 +1,11 @@
+{
+  "title": "Mobile Banking App UI",
+  "description": "Clean, modern mobile banking app with card management, transaction history, and budget tracking features.",
+  "category": "Mobile App",
+  "tags": ["fintech", "banking", "mobile", "dark-theme"],
+  "resultType": "image",
+  "resultImage": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&q=80",
+  "authorGithub": "marcusj",
+  "authorName": "Marcus Johnson",
+  "createdAt": "2026-02-26T09:15:00Z"
+}

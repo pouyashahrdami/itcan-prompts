@@ -1,0 +1,11 @@
+{
+  "title": "Futuristic SaaS Dashboard",
+  "description": "A sleek, dark-themed analytics dashboard with glassmorphic cards, real-time chart widgets, and a purple-to-cyan accent gradient.",
+  "category": "Dashboard",
+  "tags": ["dark-theme", "glassmorphism", "analytics", "saas"],
+  "resultType": "image",
+  "resultImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+  "authorGithub": "alexchen",
+  "authorName": "Alex Chen",
+  "createdAt": "2026-02-28T10:00:00Z"
+}

@@ -1,0 +1,1 @@
+Design a mobile banking app UI with a dark theme. Home screen showing: virtual card at the top with a holographic gradient effect, quick action buttons (Send, Receive, Pay, Top-up), recent transactions list with merchant icons, and a spending breakdown donut chart. Use rounded UI elements, the color palette of deep black (#0d0d0d) with electric blue (#00d4ff) accents.
